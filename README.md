@@ -60,7 +60,7 @@ This project was developed for the Amini Cocoa Contamination Challenge. The obje
 
 ### Multi-Scale Inference
 
-* Performed inference across multiple image sizes:
+* Performed inference across multiple image sizes(shout out to **[Kiminya](https://github.com/kiminya-raphael)**):
 
   ```
   [640, 800, 960, 1120, 1280, 1440]
